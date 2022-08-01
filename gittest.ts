@@ -4,4 +4,5 @@ function test1(){
 }
 function test2(){
     console.log('두번째 branch입니다.');
+    console.log('두번째 커밋입니다.');
 }
