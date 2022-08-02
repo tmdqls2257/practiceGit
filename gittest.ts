@@ -22,5 +22,6 @@ main()
 function why(){
     console.log('왜 안되는 거야');
     console.log('제발 되거라');
+    console.log('제발 되거라');
     
 }
