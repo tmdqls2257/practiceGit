@@ -16,5 +16,6 @@ test3()
 function main(){
     console.log('main 전용함수');
     console.log('두번째 커밋입니다.');
-    
 }
+main()
+
